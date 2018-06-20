@@ -1,0 +1,2 @@
+# System-for-approval-Bank-Credits
+ When making credit decisions, the basic thing is that the bank assesses the level of credit risk, i.e. The risk is that the principal of the loan and the interest is not paid within the stipulated deadlines. Each loan the bank grants contains to a certain extent, credit risk, but it is a function of the bank to assess the degree of that risk and determine whether the risk acceptable to the bank or not.
